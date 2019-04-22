@@ -37,7 +37,7 @@ termux-setup-storage.
    
    $ apt install git 
    $ apt install python 
-   $ git clone https://githubcom/vpphacker/vppbasic
+   $ git clone https://github.com/vpphacker/vppbasic
    $ cd vppbasic 
    $ ls
    $ chmod +x *
