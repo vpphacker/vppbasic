@@ -36,12 +36,19 @@ termux-setup-storage.
  Termux
    
    $ apt install git 
+   
    $ apt install python 
+   
    $ git clone https://github.com/vpphacker/vppbasic
+   
    $ cd vppbasic 
+   
    $ ls
+   
    $ chmod +x *
+   
    $ ls
+   
    $ python vppbasic.py
 
 This will take too much time it's depends on your data connection. 
