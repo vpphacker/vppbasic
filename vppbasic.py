@@ -22,7 +22,7 @@ print (''' \033[95m
 +--------------------------------------+
 | This Tool Install All Basic Packages |
 +--------------------------------------+
-| Coded By VPP Hacker                  |
+| Coded By VPP Hacker | version : 2.0  |
 +--------------------------------------+''')
 
 slowprint(''' \033[93m
