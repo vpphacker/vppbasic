@@ -1,6 +1,6 @@
 # Termux Basic Packages 
 
-[![Build Status](https://img.shields.io/github/manifest-json/v/:user/:repo)](https://github.com/vpphacker/)
+[![Build Status](https://img.shields.io/github/manifest-json/2.0v)](https://github.com/vpphacker/)
 
 #### If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux. And This Tool is made for Termux beginner.And it's a very easy to use and install. This tool is coded in python . 
 
