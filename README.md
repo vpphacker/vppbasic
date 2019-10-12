@@ -36,21 +36,28 @@ termux-setup-storage.
 ## Installation 
  
 ## Termux
-   ```html
+   ```
    $ apt install git 
-   
+   ```
+   ```
    $ apt install python 
-   
+   ```
+   ```
    $ git clone https://github.com/vpphacker/vppbasic
-   
+   ```
+   ```
    $ cd vppbasic 
-   
+   ```
+   ```
    $ ls
-   
+   ```
+   ```
    $ chmod +x *
-   
+   ```
+   ```
    $ ls
-   
+   ```
+   ```
    $ python vppbasic.py
 ```
 
