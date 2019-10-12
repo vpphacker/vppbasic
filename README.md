@@ -50,7 +50,7 @@ termux-setup-storage.
    $ ls
    
    $ python vppbasic.py
-    ```
+```
 
 This will take too much time it's depends on your data connection. 
 
